@@ -10,7 +10,7 @@ from aiogram.types import Message
 
 from censure import Censor
 
-TOKEN = "7213621846:AAEzKd7UdAMSusc5-uSFkHS2La3kGYP4iks"
+TOKEN = "your_token"
 
 dp = Dispatcher()
 
